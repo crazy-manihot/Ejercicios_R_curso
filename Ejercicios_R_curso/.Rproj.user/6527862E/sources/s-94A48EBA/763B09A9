@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602872912729.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "763B09A9",
+    "lastKnownWriteTime" : 1602873063,
+    "last_content_update" : 1602873131888,
+    "path" : "C:/Users/Jssanchezf/Desktop/Coursera/R/Ejercicios_R_curso/eins.R",
+    "project_path" : "eins.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
